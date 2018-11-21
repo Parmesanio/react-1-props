@@ -135,7 +135,7 @@ We will utilize the ```map``` function to accomplish this and store what we retu
 - Set this variable equal to our mapped ```products``` array in state.
 - Inside our map function, ```console.log()``` the value you passed in.
 > *Note: It's common practice to name the value the singular version of what you are mapping through.  Here, we are mapping through ```products```, so we should call the value ```product```.*
-- Inside ```return```, render our variable below the ```Form``` component.
+- Inside ```App```'s ```return```, render our ```mappedProducts``` variable below the ```Form``` component.
 
 Open up your browser, create a product, and view then console tab in your inspector.  If done correctly you should see an object being logged with the keys ```name```, ```url```, and ```price``` with their values being what you typed.
 
