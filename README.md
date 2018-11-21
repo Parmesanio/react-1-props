@@ -15,6 +15,10 @@ The purpose of this exercise is to better understand and practice several concep
 - Run ```npm install```.
 - After ```npm install``` has finished run ```npm start```.
 
+## Example
+
+<img src="https://res.cloudinary.com/parmesanio/image/upload/v1542819036/Screen_Shot_2018-11-20_at_11.19.48_PM_s0uibi.png" />
+
 # Step 1 - Create Components
 
 ## Summary
