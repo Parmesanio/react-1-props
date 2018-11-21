@@ -36,7 +36,6 @@ createProduct = () => {
     productPrice: '',
     productURL: ''
   });
-
 }
   render() {
     let productsList = this.state.products.map((product, i)=> {
